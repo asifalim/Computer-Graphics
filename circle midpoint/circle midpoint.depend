@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1692516570 source:c:\users\hp\desktop\cp 2021-\not so frequent\academic\computergraphics\circle midpoint\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1692591888 source:c:\users\hp\documents\project\cg\circle midpoint\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
